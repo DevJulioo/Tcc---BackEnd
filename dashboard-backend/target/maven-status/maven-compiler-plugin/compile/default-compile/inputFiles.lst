@@ -1,0 +1,17 @@
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/DashboardApplication.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/config/DataSeeder.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/domain/BaseEntity.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/domain/Dashboard.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/domain/DashboardWidget.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/domain/Widget.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/repository/DashboardRepository.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/repository/DashboardWidgetRepository.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/repository/WidgetRepository.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/service/DashboardService.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/web/controller/DashboardController.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/web/controller/WidgetController.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/web/dto/DashboardDto.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/web/dto/DashboardWidgetDto.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/web/dto/WidgetDto.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/web/mapper/DashboardMapper.java
+/workspace/dashboard-backend/src/main/java/com/example/dashboard/web/mapper/WidgetMapper.java
